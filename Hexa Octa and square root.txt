@@ -1,0 +1,4 @@
+a=int(input("Enter a number"))
+print("Hexa equivalent",hex(a))
+print("Octa Equivalent",oct(a))
+print("Square Root",a**0.5)
